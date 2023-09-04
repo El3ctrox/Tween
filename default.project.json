@@ -1,0 +1,13 @@
+{
+  "name": "Tween",
+  "tree": {
+    "$className": "DataModel",
+    
+    "ReplicatedStorage": {
+      "Packages": { "$path": "Packages" }
+    },
+    "ServerScriptService": {
+      "Tween": { "$path": "src" }
+    }
+  }
+}
